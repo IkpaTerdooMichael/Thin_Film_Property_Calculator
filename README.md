@@ -13,7 +13,7 @@ This repository contains a web application developed using Python and Streamlit 
 *   **Programming Language:** Python 3.x
 *   **Web Framework & UI:** Streamlit
 *   **Data Processing:** Pandas, NumPy
-*   **Deployment Platform:** Streamlit Cloud 
+*   **Deployment Platform:** Hugging face space
 *   **Version Control:** Git & GitHub
 
 ## How It Works
